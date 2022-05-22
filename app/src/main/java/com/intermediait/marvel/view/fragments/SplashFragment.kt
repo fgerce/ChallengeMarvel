@@ -1,10 +1,10 @@
 package com.intermediait.marvel.view.fragments
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.firebase.ui.auth.AuthUI
@@ -14,7 +14,6 @@ import com.google.firebase.auth.FirebaseAuth
 import com.intermediait.marvel.R
 import com.intermediait.marvel.presentation.SplashViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import kotlinx.coroutines.delay
 
 @AndroidEntryPoint
 class SplashFragment : Fragment() {

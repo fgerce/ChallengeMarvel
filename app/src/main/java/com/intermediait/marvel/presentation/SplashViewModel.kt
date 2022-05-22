@@ -19,7 +19,7 @@ class SplashViewModel @Inject constructor(
 
     fun startDelay() {
         viewModelScope.launch {
-            delay(5000)
+            delay(3000)
             _ready.postValue(true)
         }
     }
