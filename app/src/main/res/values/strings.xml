@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id">1004214327156158</string>
+    <string name="fb_login_protocol_scheme">fb1004214327156158</string>
+    <string name="facebook_client_token">be0e51b78e7a201c5b0ee14c78b9a98d</string>
+
+    <string name="retry">Retry</string>
+    <string name="challenge_name">Marvel Challenge</string>
+
+    <string name="characters">Characters</string>
+    <string name="events">Events</string>
+    <string name="comicsToDiscuss">COMICS TO DISCUSS</string>
+    <string name="appears_in_these_comics">APPEARS IN THESE COMICS</string>
+</resources>
